@@ -6,3 +6,5 @@ In this project we created a professional-looking website from scratch using HTM
 The project uses a Figma file, Custom Properties/Variables, Buttons & Utility Classes, Background Utility Classes, CSS Grid and has Mobile Support. 
 
 Link to the Course - https://www.youtube.com/watch?v=HXYZxVbWkjc&ab_channel=TraversyMedia
+
+-- Educational purposes only --
